@@ -25,6 +25,7 @@ For Step 3, I aimed to optimize the model's predictive accuracy beyond 75%. I ex
 
 Results
 ![Screen Shot 2023-12-01 at 11 11 47 PM](https://github.com/Jordan3956/deep-learning-challenge/assets/136666362/57d96e38-3c85-4124-9449-af92bd9be5d1)
+here is my first attempt which was about 73 % accuracy
 ![Screen Shot 2023-12-01 at 11 11 29 PM](https://github.com/Jordan3956/deep-learning-challenge/assets/136666362/128c2371-fefc-4957-9322-abc65fa1967f)
-
+my second attempt landed at about 73 % accuracy as well.
 
