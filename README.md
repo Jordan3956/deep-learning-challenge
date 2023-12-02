@@ -24,5 +24,7 @@ To preprocess the data for the neural network model, I started by uploading the 
 For Step 3, I aimed to optimize the model's predictive accuracy beyond 75%. I experimented with various strategies, such as adjusting input data, modifying binning, adding more neurons or hidden layers, and exploring different activation functions and epoch counts. Despite making at least three optimization attempts, there was no strict requirement to achieve the target performance. To document the optimization process, I created a new Google Colab file named 'AlphabetSoupCharity_Optimization.ipynb.' I imported dependencies, read in 'charity_data.csv,' preprocessed the data, and designed a neural network model with adjustments for optimization. Finally, I saved and exported the optimized results to an HDF5 file named 'AlphabetSoupCharity_Optimization.h5.'
 
 Results
+![Screen Shot 2023-12-01 at 11 11 47 PM](https://github.com/Jordan3956/deep-learning-challenge/assets/136666362/57d96e38-3c85-4124-9449-af92bd9be5d1)
+![Screen Shot 2023-12-01 at 11 11 29 PM](https://github.com/Jordan3956/deep-learning-challenge/assets/136666362/128c2371-fefc-4957-9322-abc65fa1967f)
 
 
